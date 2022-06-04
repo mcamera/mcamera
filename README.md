@@ -1,4 +1,4 @@
-### Hi there 🤘, I'm Marcelo Camera
+# Hi there 🤘, I'm Marcelo Camera
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working at [A3 Data](https://www.a3data.com.br/) as a Data Engineer
