@@ -4,6 +4,10 @@
 - 🔭 I’m currently working at [A3 Data](https://www.a3data.com.br/) as a Data Engineer
 - 🌱 I’m currently learning about hacking and data engineering
 
+### 🏆 &nbsp;Certifications
+- [Microsoft Azure Data Fundamentals]()
+- [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/a9bbf367-bc61-4d67-abb3-b94592a7731b?source=linked_in_profile)
+
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=azuredevops&logoColor=blue)&nbsp;
