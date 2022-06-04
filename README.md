@@ -21,5 +21,4 @@
 <a href="https://linkedin.com/in/marcelocamera"><img src="https://img.shields.io/badge/-Marcelo Camera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mcamera911@gmail.com"><img src="https://img.shields.io/badge/-mcamera911@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcamera&hide=prs,issues,contribs&show_icons=true&bg_color=90,ffffff,7a97cc)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcamera&layout=compact&bg_color=90,ffffff,7a97cc)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcamera&hide=prs,issues,contribs&show_icons=true&bg_color=90,ffffff,7a97cc)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcamera&layout=compact&bg_color=90,ffffff,7a97cc)](https://github.com/anuraghazra/github-readme-stats)
