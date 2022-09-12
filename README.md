@@ -1,12 +1,15 @@
 # Hi there 🤘, I'm Marcelo Camera
 
 ### 👨🏻‍💻 &nbsp;About Me
-- 🔭 I’m currently working at [A3 Data](https://www.a3data.com.br/) as a Data Engineer
+- 🔭 I’m currently working at [Raízen](https://www.raizen.com.br/) as a Data Engineer
 - 🌱 I’m currently learning about hacking and data engineering
 
 ### 🏆 &nbsp;Certifications
-- [Microsoft Azure Data Fundamentals]()
+- [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/120901dc-f338-4444-abbb-c090ed843ffa/public_url)
 - [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/a9bbf367-bc61-4d67-abb3-b94592a7731b?source=linked_in_profile)
+- [Databricks Lakehouse Fundamentals certified](https://credentials.databricks.com/ee67e229-ef9d-4d76-91a1-67c518f9c447)
+- [IBM Data Science Professional pela IBM/Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/BNVS4QCVRT3Z)
+- [Project Manager Professional (PMP) 10+ anos](https://www.credly.com/badges/7474bbe0-5f7e-4b90-abf2-d659424d9ef9)
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
