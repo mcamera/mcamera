@@ -2,7 +2,6 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working at [Raízen](https://www.raizen.com.br/) as a Data Engineer
-- 🌱 I’m currently learning about hacking and data engineering
 
 ### 🏆 &nbsp;Certifications
 - [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/120901dc-f338-4444-abbb-c090ed843ffa/public_url)
