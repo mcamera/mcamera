@@ -1,14 +1,15 @@
-# Hi there 🤘, I'm Marcelo Camera
+# Hi there.. I'm Marcelo Camera!
 
 ### 👨🏻‍💻 &nbsp;About Me
 - 🔭 I’m currently working at [Raízen](https://www.raizen.com.br/) as a Data Engineer
 
 ### 🏆 &nbsp;Certifications
-- [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/120901dc-f338-4444-abbb-c090ed843ffa/public_url)
-- [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/a9bbf367-bc61-4d67-abb3-b94592a7731b?source=linked_in_profile)
-- [Databricks Lakehouse Fundamentals certified](https://credentials.databricks.com/ee67e229-ef9d-4d76-91a1-67c518f9c447)
+- [Microsoft Azure Data Fundamentals](https://www.credly.com/badges/120901dc-f338-4444-abbb-c090ed843ffa?source=github)
+- [Microsoft Azure Fundamentals](https://www.credly.com/badges/5c49b525-359a-425f-b610-8a377c90ed20?source=github)
+- [Astronomer Certification for Apache Airflow Fundamentals](https://www.credly.com/badges/a9bbf367-bc61-4d67-abb3-b94592a7731b?source=github)
 - [IBM Data Science Professional pela IBM/Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/BNVS4QCVRT3Z)
-- [Project Manager Professional (PMP)](https://www.credly.com/badges/7474bbe0-5f7e-4b90-abf2-d659424d9ef9)
+- ~~[Databricks Lakehouse Fundamentals certified](https://credentials.databricks.com/ee67e229-ef9d-4d76-91a1-67c518f9c447)~~
+- ~~[Project Manager Professional (PMP)](https://www.credly.com/badges/7474bbe0-5f7e-4b90-abf2-d659424d9ef9)~~
 
 ### 🛠 &nbsp;Tech Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -25,6 +26,6 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 <a href="https://linkedin.com/in/marcelocamera"><img src="https://img.shields.io/badge/-Marcelo Camera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mcamera911@gmail.com"><img src="https://img.shields.io/badge/-mcamera911@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:mcamera.dev@pm.me"><img src="https://img.shields.io/badge/-mcamera.dev@pm.me-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcamera&hide=prs,issues,contribs&show_icons=true&bg_color=90,ffffff,7a97cc)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcamera&layout=compact&bg_color=90,ffffff,7a97cc)](https://github.com/anuraghazra/github-readme-stats)
