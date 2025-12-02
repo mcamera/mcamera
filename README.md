@@ -76,4 +76,10 @@
 
 ### 📊 &nbsp;GitHub Statistics
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcamera&hide=prs,issues,contribs&show_icons=true&bg_color=90,ffffff,7a97cc)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcamera&layout=compact&bg_color=90,ffffff,7a97cc)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mcamera&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcamera&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+</div>
