@@ -2,7 +2,7 @@
 
 # Hi there, I'm Marcelo Camera! 👋
 
-### Data Engineer | Blockchain Developer | Web3 Enthusiast
+### Data Engineer | Blockchain/Web3 Developer
 
 </div>
 
@@ -17,15 +17,7 @@
 
 ### 🚀 &nbsp;What I'm Building
 
-- **FundMe** - A crowdsourcing dApp on Solana for the [Solana Student Hackathon 2025](https://solana.com/universities/hackathon-fall-2025)
-- **MusicPass** - A revolutionary blockchain-based ticketing platform built on BASE (Ethereum) | [https://x.com/MusicPass_fun](https://x.com/MusicPass_fun)
-
-
-### 📚 &nbsp;Current Learning / Reading
-
-- 🔐 **School of Solana Season 8** by [Ackee Blockchain Security](https://ackee.xyz/)
-- 🦀 **The Rust Programming Language Interactive Edition** - [https://rust-book.cs.brown.edu/](https://rust-book.cs.brown.edu/)
-- 📖 **Deep Work** by Cal Newport - Strategies for focused success in a distracted world
+- **REDACTED**
 
 ---
 
@@ -68,9 +60,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://linkedin.com/in/marcelocamera"><img src="https://img.shields.io/badge/-Marcelo_Camera-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="https://x.com/0xmarcelocamera"><img src="https://img.shields.io/badge/-@0xmarcelocamera-1DA1F2?style=flat&logo=x&logoColor=white"/></a>
-
 
 ---
 
